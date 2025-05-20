@@ -92,7 +92,7 @@ body {
       hsla(277, 64%, 45%, 0.3),
       hsla(277, 64%, 45%, 0.3)
     ),
-    url("/images/image-header-desktop.jpg");
+    url("./images/image-header-desktop.jpg");
   background-size: cover;
   background-position: center;
   width: 700px;
